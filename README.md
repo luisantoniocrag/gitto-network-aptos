@@ -1,6 +1,6 @@
 # Gitto Network 
 
-this is the repo containing all related of the (Aptos Code Collision Hackathon)[https://dorahacks.io/hackathon/code-collision/buidl]
+this is the repo containing all related of the [Aptos Code Collision Hackathon](https://dorahacks.io/hackathon/code-collision/buidl)
 
 ## What is Gitto Network?
 
