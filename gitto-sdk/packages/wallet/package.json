@@ -1,6 +1,6 @@
 {
   "name": "@gitto-sdk/wallet",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "index.js",
   "dependencies": {
     "react": "^18.3.1"
