@@ -1,6 +1,5 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "gitto-sdk",
   "workspaces": [
     "packages/*"
   ],
