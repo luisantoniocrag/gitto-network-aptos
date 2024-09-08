@@ -14,5 +14,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "description": ""
+  "description": "",
+  "gitHead": "4cddbdd712ec39c1b0c12945e316a65fc247e098"
 }
