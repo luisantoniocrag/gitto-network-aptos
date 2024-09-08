@@ -1,5 +1,6 @@
 "use client"
 
+import WrapperMobile from "@/components/WrapperMobile";
 import { useState } from "react";
 
 
@@ -11,13 +12,14 @@ export default function Home() {
 
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24 max-w-[420px] mx-auto">
-      <div className=" max-w-[420px]  overflow-x-auto whitespace-nowrap border-b-2">
+    <WrapperMobile>
+      <div className="max-w-[420px] overflow-x-auto whitespace-nowrap border-b-2 mt-12">
       {
         headerTopics.map((value, index) => <BadgeHeader isActive={headerTopicSelected == value} onClick={() => setHeaderTopicSelected(value)} key={index} name={value} />)
       }
       </div>
-    </main>
+
+    </WrapperMobile>
   );
 }
 
