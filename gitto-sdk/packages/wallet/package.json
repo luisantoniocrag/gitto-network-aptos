@@ -5,7 +5,7 @@
     "dependencies": {
         "react": "^18.3.1"
     },
-    "gitHead": "e4e3bcb45f6a1cfb7a026cfc6de86aefe2347f41",
+    "gitHead": "cb0354c55e1597d296b20d5b37fb7690a01f1de1",
     "license": "MIT",
     "private": false,
     "publishConfig": {
