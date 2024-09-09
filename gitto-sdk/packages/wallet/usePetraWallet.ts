@@ -16,7 +16,7 @@ export default function usePetraWallet() {
         console.error('Error connecting to Petra wallet:', error);
       }
     } else {
-      console.log('Petra wallet is not installed');
+      console.log('Petra wallet is not installed, please install it');
     }
   };
 
