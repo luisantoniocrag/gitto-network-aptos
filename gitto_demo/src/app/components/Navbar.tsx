@@ -51,7 +51,7 @@ const Navbar: React.FC<{}> = () => {
   return (
     <div className="fixed bottom-0 z-50 mx-auto max-w-[420px] right-0 left-0 h-16 bg-white border-t border-gray-200 dark:bg-gray-700 dark:border-gray-600">
       <div
-        className={`grid h-full max-w-lg grid-cols-${getColumns()} mx-auto font-medium`}
+        className={`grid h-full max-w-lg grid-cols-5 mx-auto font-medium`}
       >
         {navBarMenuItems.map(({ label, route, icon: Icon }, index) => (
           <button
