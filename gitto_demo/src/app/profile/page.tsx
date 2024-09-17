@@ -1,4 +1,4 @@
-import WrapperMobile from "@/components/WrapperMobile";
+import WrapperMobile from "@/app/components/WrapperMobile";
 
 const Home : React.FC<{}> = () =>  {
     return (

@@ -1,6 +1,6 @@
 "use client"
 
-import WrapperMobile from "@/components/WrapperMobile";
+import WrapperMobile from "@/app/components/WrapperMobile";
 import { useState } from "react";
 
 
